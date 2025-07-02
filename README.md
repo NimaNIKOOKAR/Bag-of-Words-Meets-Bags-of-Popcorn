@@ -1,3 +1,5 @@
+# Codes will be added
+
 # Word2Vec NLP Tutorial – Bag-of-Popcorn
 
 A **hands-on walkthrough** of building sentiment-analysis models for IMDB movie reviews – from classic Bag-of-Words to Word2Vec embeddings and beyond. Perfect if you’re comfortable with Python basics and want to dip your toes into deep-learning-flavoured NLP without a GPU.
